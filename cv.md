@@ -36,3 +36,8 @@ And here are some **courses** I have already taken:
 * CSS for beginners at *Code Basics* (completed);
 * JavaScript for beginners at *Code Basics* (in progress);
 * JavaScript/Front-end pre-school at *RS School* (in progress).
+
+### ✍ Languages:
+* **Ukrainian and Russian:** native speaker;
+* **English:** Intermediate according to [EF SET](https://www.efset.org/ru).\
+![](https://i.pinimg.com/564x/c8/b2/2e/c8b22e6b439aeacd44bd4fb14dc8b59d.jpg)
