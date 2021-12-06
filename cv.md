@@ -16,3 +16,10 @@ A friend of mine recommended me to start studying at *RS School* - she supposed 
 * JavaScript;
 * Git, GitHub;
 * Visual Studio Code.
+
+### ✍ Code:
+```
+function multiply(a, b){
+  return a * b
+}
+```
