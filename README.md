@@ -1,1 +1,0 @@
-https://drohobytska95.github.io/rsschool-cv/cv
