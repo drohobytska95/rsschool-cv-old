@@ -26,7 +26,7 @@ function multiply(a, b){
 
 ### ✍ Experience:
 I do not have any experience of working as a front-end developer, but I am studying at *RS School* right now and have already done some tasks.
-[Here is my CV](https://www.pinterest.ru/pin/718464946812395964/) that was made with the help of HTML and CSS, for example.
+[Here is my CV](https://www.pinterest.ru/pin/718464946812395964/) that is made with the help of *HTML and CSS*, for example.
 
 ### ✍ Education:
 I was studying at *Kherson State University* from 2013 till 2017 and got *a Bachelor Degree in Translation and Interpretation*. I continued studying after that and got *a Master degree* in the end of 2018.
